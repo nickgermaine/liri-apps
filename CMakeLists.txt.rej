@@ -1,0 +1,12 @@
+--- CMakeLists.txt
++++ CMakeLists.txt
+@@ -19,7 +19,8 @@ pkg_check_modules(GTHREAD REQUIRED "gthread-2.0 >= 2.14.0")
+ 
+ add_definitions(${DEPS_CFLAGS})
+ 
+-link_libraries(${DEPS_LIBRARIES} ${GTHREAD_LIBRARIES})
++find_library(M_LIB m)
++link_libraries(${DEPS_LIBRARIES} ${GTHREAD_LIBRARIES} ${M_LIB})
+ 
+ link_directories(${DEPS_LIBRARY_DIRS})
+ 

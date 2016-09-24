@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Liri Apps
+Comment=Full screen app launcher
+Exec=liri-apps
+Icon=/usr/share/icons/liri-apps.png
+Type=Application
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+Name[en_US]=Liri Apps

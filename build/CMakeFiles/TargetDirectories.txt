@@ -1,0 +1,7 @@
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/install.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/list_install_components.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/rebuild_cache.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/liri-apps.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/install/strip.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/install/local.dir
+/home/nickgermaine/Projects/slingscold-master/build/CMakeFiles/edit_cache.dir

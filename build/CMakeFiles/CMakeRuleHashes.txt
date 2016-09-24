@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+09a3b48308ee74d02ab7330e3ee506a2 liri-apps.c
