@@ -1,6 +1,8 @@
 # Liri Apps
 ### A full-screen app launcher for Linux
 
+![Liri Apps](https://github.com/nickgermaine/liri-apps/blob/master/images/liri-apps.png)
+
 #### Notes
 
 First, this project was forked from Slingscold launcher, which you can check out [link](https://github.com/libredeb/slingscold "here").
